@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/thefolahan">
-    <img src="https://github-readme-stats.vercel.app/api?username=thefolahan&show_icons=true" alt="Folahan's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=thefolahan&show_icons=true" alt="Folahan's GitHub Stats" height="195">
   </a>
   <a href="https://github.com/thefolahan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefolahan&show_icons=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefolahan&show_icons=true" alt="Top Languages" height="195">
   </a>
 </p>
 
