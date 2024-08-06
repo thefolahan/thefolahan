@@ -6,8 +6,8 @@
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I studied at [Semicolon Africa](https://semicolon.africa/).
-- 🌱 I’m currently working with JavaScript, TypeScript, Reactjs, Nextjs, Nodejs, Java, Spring, Python, C#, and Kotlin.
+- 🏫 I studied at [Semicolon Africa](https://semicolon.africa/).
+- 💻 I’m currently working with JavaScript, TypeScript, Reactjs, Nextjs, Nodejs, Java, Spring, Python, C#, and Kotlin.
 - 😊 I’m excited about open source projects, system design & architecture, cloud development, and embedded systems.
 - 🔭 I’m currently solving problems.
 - 👯 I’m looking to collaborate on new products and research.
