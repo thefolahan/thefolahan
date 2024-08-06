@@ -1,5 +1,7 @@
 ### Hello, I'm Folahan 👋🏾
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I studied at [Semicolon Africa](https://semicolon.africa/).
@@ -8,10 +10,9 @@
 - 🔭 I’m currently solving problems.
 - 👯 I’m looking to collaborate on new products and research.
 
----
+[![Folahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefolahan&show_icons=true)](https://github.com/thefolahan)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=thefolahan&show_icons=true&include_all_commits=true&hide_border=true" alt="Fola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefolahan&langs_count=8&layout=compact&hide_border=true" alt="Fola's GitHub stats" /> |
-| ------------- | ------------- |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefolahan&show_icons=true)
 
 ## :link: Links
 
@@ -20,5 +21,3 @@
   <a href="https://twitter.com/thefolahan"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.instagram.com/thefolahan"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
-
-
