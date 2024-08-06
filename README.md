@@ -1,6 +1,8 @@
-### Hello, I'm Folahan 👋🏾
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+### Hello, I'm Folahan 👋🏾
 
 **Here's a quick summary about me**:
 
@@ -10,9 +12,14 @@
 - 🔭 I’m currently solving problems.
 - 👯 I’m looking to collaborate on new products and research.
 
-[![Folahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefolahan&show_icons=true)](https://github.com/thefolahan)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefolahan&show_icons=true)
+<p align="center">
+  <a href="https://github.com/thefolahan">
+    <img src="https://github-readme-stats.vercel.app/api?username=thefolahan&show_icons=true" alt="Folahan's GitHub Stats">
+  </a>
+  <a href="https://github.com/thefolahan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefolahan&show_icons=true" alt="Top Languages">
+  </a>
+</p>
 
 ## :link: Links
 
