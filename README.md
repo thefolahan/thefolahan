@@ -4,8 +4,7 @@
 API, the web and mobile clients, and the pipeline that carries each release into
 production. I work across the TypeScript and JVM ecosystems, and I am most useful
 on the problems that sit between the layers, such as data modelling, service
-boundaries, and the failure modes that only appear under real traffic. Based in
-Lagos.
+boundaries, and the failure modes that only appear under real traffic.
 
 ***
 
@@ -47,7 +46,7 @@ retrofitting any one of them means revisiting every handler.
 
 * **Languages:** TypeScript, Java, JavaScript, Python, Kotlin, Go, C#
 * **Frontend:** React, Next.js, React Native (Expo), Tailwind CSS
-* **Backend:** NestJS, Node.js, Spring Boot, REST and OpenAPI
+* **Backend:** NestJS, Node.js, Spring Boot, REST
 * **Data:** PostgreSQL, PostGIS, Prisma, Redis
 * **Infrastructure:** Docker, GitHub Actions, Render, AWS S3
 * **Testing:** Jest, integration tests against a real PostgreSQL instance
