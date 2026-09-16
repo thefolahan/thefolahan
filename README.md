@@ -57,6 +57,6 @@ retrofitting any one of them means revisiting every handler.
 
 [![Email](https://img.shields.io/badge/Email-4A5568?style=flat-square&logo=gmail&logoColor=white)](mailto:officialjoshua9@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-4A5568?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1138918467416903780)
-[![Website](https://img.shields.io/badge/devfolahan.vercel.app-4A5568?style=flat-square&logo=vercel&logoColor=white)](https://devfolahan.vercel.app)
+[![Website](https://img.shields.io/badge/devfolahan.vercel.app-4A5568?style=flat-square&logo=vercel&logoColor=white)](https://www.devfolahan.com/)
 
 <sub>Available for founding engineer and technical lead roles, and for consulting on systems that need to ship quickly and stay standing once they are live.</sub>
